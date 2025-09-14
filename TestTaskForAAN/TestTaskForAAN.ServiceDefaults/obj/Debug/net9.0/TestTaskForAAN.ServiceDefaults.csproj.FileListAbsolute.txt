@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\bin\Debug\net9.0\TestTaskForAAN.ServiceDefaults.deps.json
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\bin\Debug\net9.0\TestTaskForAAN.ServiceDefaults.dll
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\bin\Debug\net9.0\TestTaskForAAN.ServiceDefaults.pdb
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.AssemblyInfo.cs
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.dll
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\refint\TestTaskForAAN.ServiceDefaults.dll
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\TestTaskForAAN.ServiceDefaults.pdb
+C:\Users\admin\source\repos\TestTaskForAAN\TestTaskForAAN.ServiceDefaults\obj\Debug\net9.0\ref\TestTaskForAAN.ServiceDefaults.dll
